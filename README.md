@@ -1,3 +1,3 @@
-hi there <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height="50">
+Hi there. 👋🏻 <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height="50">
 
-i am a js developer
+I'm a developer 🐈‍⬛.
